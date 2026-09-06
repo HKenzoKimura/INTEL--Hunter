@@ -2,6 +2,8 @@
 
 > **Context:** Automated Threat Intelligence tool that monitors a target term across **three distinct channels** — Darknet, Telegram, and Twitter/X — correlating mentions and exporting structured reports. Built for CTI (Cyber Threat Intelligence) workflows where early detection of brand exposure, credential leaks, or threat actor discussions can significantly reduce response time.
 
+
+##`Developed by: HKK
 ---
 
 ## `$ cat ./objective.txt`
